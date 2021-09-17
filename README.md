@@ -1,6 +1,6 @@
 # Genetic Algorithms
 
-The parameter tuning algorithm optimizes the running parameters of other applications.
+* *Parameter-Tuning* The parameter tuning algorithm optimizes the running parameters of other applications.
 
 The clique genetic algorithm computes the CLIQUE problem on given graphs.
  
