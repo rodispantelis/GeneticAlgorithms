@@ -1,7 +1,11 @@
 # Genetic Algorithms
 
-* *Parameter-Tuning* The parameter tuning algorithm optimizes the running parameters of other applications.
+* **Parameter-Tuning**. A tuning algorithm optimizes the running parameters of other applications. Used in 
 
-The clique genetic algorithm computes the CLIQUE problem on given graphs.
+* **Clique_GA**. The clique genetic algorithm computes the CLIQUE problem on given graphs.
  
-On the bin directory there are compiled instances of both algorithms, where the parameter tuning algorithm optimizes the parameters of the clique genetic algorithm.
+* **bin** On this directory there are compiled instances of the algorithms.
+* **GA_modeling**. Work on progress.
+
+[1] Rodis P. and Papadimitriou P. (2021). "Intelligent Network Service Embedding Using Genetic Algorithms",
+26th IEEE Symposium on Computers and Communications
