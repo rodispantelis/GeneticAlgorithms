@@ -8,7 +8,7 @@
 
 * **GA_modeling**. Work in progress.
   
--    
+ --    
     
 [1] Rodis P. and Papadimitriou P. (2021). "Intelligent Network Service Embedding Using Genetic Algorithms",
 
