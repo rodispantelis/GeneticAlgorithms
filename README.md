@@ -11,4 +11,4 @@
     
 [1] Rodis P. and Papadimitriou P. (2021). "Intelligent Network Service Embedding Using Genetic Algorithms",
 
-26th IEEE Symposium on Computers and Communications
+26th IEEE Symposium on Computers and Communications. [pdf.](https://pantelisrodis.appspot.com/ISCC_2021.pdf)
