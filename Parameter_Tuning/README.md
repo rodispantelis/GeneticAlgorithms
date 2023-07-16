@@ -1,4 +1,4 @@
-This is a parameter tuning genetic algorithm.
+# Α parameter tuning genetic algorithm.
 
 Use it to optimize the parameters that other programs use on runtime.
 
