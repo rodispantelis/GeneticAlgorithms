@@ -1,4 +1,4 @@
-This is a parameter tuning genetic algorithm.
+#This is a parameter tuning genetic algorithm.
 
 Use it to optimize the parameters that other programs use on runtime.
 In the profile and settings files you may store the settings for running the tuning procedure in various files.
