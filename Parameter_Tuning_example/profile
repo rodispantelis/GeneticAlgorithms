@@ -1,0 +1,34 @@
+%Store the configuration and the parameters for running the tuning procedure
+
+%The command to the OS that triggers the file that computes the fitness of each configuration.
+%The syntax of the command should declare the parameters that the file accepts as inputs.
+%For instance, given a python file called Hello.py with arguments -a and -b the syntax is:
+%command python Hello.py -a var1 -b var2
+%In this syntax tokens "var1" and "var2" denote the numerical values of the arguments -a and -b.
+
+command java -jar clique_ga.jar var1 var2 var3 var4 var5 var6
+
+% Define in the tokens section the variables that denote the parameter values in the command to the OS
+
+tokens var1 var2 var3 var4 var5 var6
+
+%Define the parameters and their domains. 
+%Use the schema: <token> <minimum value>-<maximum value>
+
+var1 12 -  12
+
+var2 1 -  100
+
+var3 1 -  100
+
+var4 1 -  10
+
+var5 1 -  100
+
+var6 1 -  100
+
+%Defines the objective of the tuning procedure.
+%Set target to min if the objective is to minimize the output. Set max for maximizing the output.
+
+%target min 
+target max
