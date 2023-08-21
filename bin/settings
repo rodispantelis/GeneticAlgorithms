@@ -1,8 +1,0 @@
-%Configuration for running the genetic algorithm.
-%Set supergenerations equal to 1 for the simple genetic algorithm configuration.
-
-population 10
-generations 10
-supergenerations 2
-crossover_probability 0.8
-mutation_probability 0.5

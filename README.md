@@ -4,7 +4,7 @@
 
 * **Clique_GA**. A genetic algorithm for the CLIQUE problem.
  
-* **bin**. Compiled instances of the algorithms.
+* **Parameter-Tuning example**. An example. The Parameter Tuning algorithm optimizes the parameters of the Clique_ga algorithm.
 
 
  ---  
